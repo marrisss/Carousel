@@ -1,0 +1,40 @@
+.InputField {
+  top: 339px;
+  left: 509px;
+  width: 420px;
+  height: 45px;
+  background: #f8f9fa 0% 0% no-repeat padding-box;
+  border-radius: 30px;
+  opacity: 1;
+  display: flex;
+  justify-content: space-between;
+  margin: 15px 15px 0 0;
+  align-items: center;
+}
+
+.Content {
+  margin-left: 50px;
+  font: var(--unnamed-font-style-normal) normal
+    var(--unnamed-font-weight-normal) 12px/38px Banana Grotesk;
+  text-align: left;
+  font: normal normal normal 12px/38px Banana Grotesk;
+  letter-spacing: 0.48px;
+  color: #495057;
+  opacity: 1;
+}
+
+.Input {
+  border: inherit;
+  background-color: inherit;
+  border-radius: 30px;
+  font: var(--unnamed-font-style-normal) normal 300 12px/38px Banana Grotesk;
+  text-align: left;
+  font: normal normal 300 12px/38px Banana Grotesk;
+  letter-spacing: 0.48px;
+  color: #adb5bd;
+  opacity: 1;
+  /* width: 123px;
+  height: 14px; */
+  /* margin-right: 150px; */
+  width: 65%;
+}

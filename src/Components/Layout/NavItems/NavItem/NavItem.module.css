@@ -1,0 +1,10 @@
+.NavItem {
+  margin-left: 21px;
+  margin-right: 21px;
+  color: white;
+}
+
+.NavItem:hover {
+  color: rgb(187, 187, 187);
+  cursor: pointer;
+}

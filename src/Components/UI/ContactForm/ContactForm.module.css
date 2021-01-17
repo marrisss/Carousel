@@ -1,0 +1,76 @@
+.Box {
+  top: 142px;
+  width: 423px;
+  height: 346px;
+  background: #fcebe5 0% 0% no-repeat padding-box;
+  border-radius: 16px;
+  opacity: 1;
+  position: absolute;
+  padding: 38px;
+}
+
+.Contact {
+  font: var(--unnamed-font-style-normal) normal bold 42px/47px Banana Grotesk;
+  text-align: left;
+  font: normal normal bold 42px/47px Banana Grotesk;
+  letter-spacing: 2.1px;
+  color: #495057;
+  opacity: 1;
+}
+
+.Paragraph {
+  font: var(--unnamed-font-style-normal) normal 300 12px/38px Banana Grotesk;
+  text-align: left;
+  font: normal normal 300 12px/12px Banana Grotesk;
+  letter-spacing: 0.48px;
+  color: #adb5bd;
+  opacity: 1;
+  margin-bottom: 20px;
+}
+
+.Button {
+  float: right;
+  background: #000000 0% 0% no-repeat padding-box;
+  border-radius: 39px;
+  opacity: 1;
+  width: 115px;
+  height: 45px;
+  margin: 20px 0 0 0;
+  align-items: center;
+  color: #fff;
+}
+
+.Text {
+  font: var(--unnamed-font-style-normal) normal
+    var(--unnamed-font-weight-normal) 12px/38px Banana Grotesk;
+  text-align: center;
+  font: normal normal normal 12px/38px Banana Grotesk;
+  letter-spacing: 0.48px;
+  color: #ffffff;
+  opacity: 1;
+}
+
+.Footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+  top: 5%;
+  width: 100%;
+}
+
+.Footer div {
+  font: var(--unnamed-font-style-normal) normal
+    var(--unnamed-font-weight-normal) 12px/38px Banana Grotesk;
+  text-align: left;
+  font: normal normal normal 12px/38px Banana Grotesk;
+  letter-spacing: 0.48px;
+  color: #495057;
+  opacity: 1;
+}
+
+.Close {
+  float: right;
+  cursor: pointer;
+  margin-bottom: 5px;
+}

@@ -1,0 +1,12 @@
+.Indicator {
+  position: absolute;
+  top: 427px;
+  left: 876px;
+  width: 220px;
+  height: 250px;
+  text-align: left;
+  letter-spacing: -0.3px;
+  color: #ffe8df;
+  opacity: 1;
+  z-index: 50;
+}

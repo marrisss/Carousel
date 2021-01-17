@@ -1,0 +1,7 @@
+.NavItems {
+  position: absolute;
+  right: 48px;
+  top: 48px;
+  display: flex;
+  /* border: 2px solid red; */
+}

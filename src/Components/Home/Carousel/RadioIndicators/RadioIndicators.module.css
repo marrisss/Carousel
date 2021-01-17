@@ -1,0 +1,8 @@
+.RadioIndicators {
+  display: flex;
+  position: absolute;
+  z-index: 50;
+  margin-top: 500px;
+  margin-left: 100px;
+  align-items: center;
+}
